@@ -41,7 +41,7 @@ def rename_files_in_subfolders(base_directory):
     print(f"Exported renamed filenames to '{export_path}'")
 
 # Define the base directory
-base_directory = r"\\192.168.70.1\Copy 01_Defendant\CLG - DRILLING SPECIALTIES CORPORATION\Miscellaneous"
+base_directory = r"enter path here"
 
 # Call the function to rename files and export filenames
 rename_files_in_subfolders(base_directory)

@@ -1,4 +1,4 @@
-**P Drive Filename Compilation** <br/>
+**Filename Indexing** <br/>
 Application pulls filenames for a given folder and lists them in an excel spreadsheet.
 
 UI:<br/>
